@@ -101,6 +101,7 @@ uint8_t len_od = 0;
 
 int x;
 int y;
+int z;
 
 // Let's write the callback function
 void delay (uint16_t time)
