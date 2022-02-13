@@ -365,7 +365,7 @@ int main(void)
 
     else if (parking_trig == 1) //parking mode routine
     {
-      mv_straight(2000, 0);      //drive straigh
+      mv_straight(2000, 0);      //drive straight
 
       while (front_wall_trig == 0)
         {
